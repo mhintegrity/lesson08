@@ -1,0 +1,11 @@
+h1, a, button {
+    display: block;
+}
+
+img {
+    max-width: 500px;
+}
+
+#DOM {
+    background-color: blue;
+}
